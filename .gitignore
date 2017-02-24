@@ -27,3 +27,10 @@
 *.exe
 *.out
 *.app
+
+# Project files
+/Debug
+/Release
+.cproject
+.project
+.settings/
